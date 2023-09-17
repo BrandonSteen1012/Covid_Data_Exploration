@@ -1,5 +1,6 @@
 # Covid_Data_Exploration
-A deep dive into an extensive Covid dataset to extract meaningful statistics
+A deep dive into an extensive Covid dataset to extract meaningful statistics,
+Which was then visualized using Tableau
 
 I give you permission to use this code for whatever purpose,
 The original dataset used in this project can be found in the address below:
